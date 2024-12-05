@@ -3,7 +3,7 @@
 -- Host: localhost    Database: my_cat
 -- ------------------------------------------------------
 -- Server version	8.0.33
-
+/* 메렁 메렁 */;
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
